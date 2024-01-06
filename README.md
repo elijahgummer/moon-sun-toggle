@@ -59,3 +59,7 @@ Contributions are welcome! Feel free to open issues or pull requests to enhance 
 Toggle between light and dark with the Moon and Sun Toggle Switch! 🚀🌙☀️
 
 Happy coding! 🌟
+
+
+<img width="106" alt="image" src="https://github.com/elijahgummer/moon-sun-toggle/assets/96103526/ec983f7e-6717-4bce-9dee-e0bbf1efd7fb">
+![image](https://github.com/elijahgummer/moon-sun-toggle/assets/96103526/95d20c9d-9af8-4550-8777-39f1a59816ad)
